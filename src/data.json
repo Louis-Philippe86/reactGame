@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Retrouver les poules",
+    "description": "Les poules de ma mamie ont disparu pendant la nuit. Retrouve-les dans la forêt voisine.",
+    "isActive" : true,
+    "questStatus" : "notStarted"
+  },
+  {
+    "id": 2,
+    "title": "Réparer le puits du village",
+    "description": "Le puits s'est effondré. Rassemble du bois et des pierres pour aider à sa reconstruction.",
+    "isActive" : true,
+    "questStatus" : "notStarted"
+  },
+  {
+    "id": 3,
+    "title": "Chasser les rats de la grange",
+    "description": "Une colonie de rats s’est installée dans la grange. Élimine-les avant qu’ils ne mangent les réserves.",
+    "isActive" : true,
+    "questStatus" : "inProgress"
+  },
+  {
+    "id": 4,
+    "title": "Soigner un survivant blessé",
+    "description": "Un survivant revient d'exploration gravement blessé. Trouve des herbes médicinales pour le soigner.",
+    "isActive" : true,
+    "questStatus" : "inProgress"
+  },
+  {
+    "id": 5,
+    "title": "Explorer la tour abandonnée",
+    "description": "Une tour ancienne vient d’être découverte. Envoie un groupe pour l’explorer et en rapporter des ressources.",
+    "isActive" : true,
+    "questStatus" : "inProgress"
+  },
+  {
+    "id": 6,
+    "title": "Explorer la tour abandonnée",
+    "description": "Une tour ancienne vient d’être découverte. Envoie un groupe pour l’explorer et en rapporter des ressources.",
+    "isActive" : true,
+    "questStatus" : "inProgress"
+  }
+]

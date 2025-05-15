@@ -1,0 +1,18 @@
+[
+  {
+    "type": "empty",
+    "option": "Construire une maison"
+  },
+  {
+    "type": "forest",
+    "option": "Couper du bois"
+  },
+  {
+    "type": "home",
+    "option": "Incendier la maison"
+  },
+  {
+    "type": "mountain",
+    "option": "Récolter de la pierre"
+  }
+]
