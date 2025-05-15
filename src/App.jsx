@@ -31,7 +31,7 @@ function App() {
     if (!inGame && !gameOver) return <Menu version={'0.0.1'} onPlay={onPlay}></Menu>
   }
   return(
-      <BrowserRouter>
+      <BrowserRouter basename={'/reactGame/'}>
         <Routes>
           <Route path={"/"} element={<Menu/>}></Route>
           <Route path={"/game"} element={<Game/>}></Route>
